@@ -1,0 +1,15 @@
+{
+	"images" : {
+		"monday"     : "src/1.gif",
+		"tuesday"    : "src/2.gif",
+		"wednesday"  : "src/3.gif",
+		"thursday"   : "src/4.gif",
+		"friday"     : "src/5.gif",
+		"saturday"   : "src/6.gif",
+		"sunday"     : "src/7.gif"
+	},
+	"offsets"       : [ 0, 0, 0, 0, 0, 0, 0 ],
+	"interpolation" : 3,
+	"watermark"     : false,
+	"quantization"  : true
+}
